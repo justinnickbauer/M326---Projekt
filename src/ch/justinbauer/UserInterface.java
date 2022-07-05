@@ -21,6 +21,7 @@ public class UserInterface {
         int price = 0;
         System.out.println("--------------------------------------");
         System.out.println("Hotel Reservation System");
+        System.out.println("From Julie Tifner & Justin Bauer");
         System.out.println("--------------------------------------");
 
         Vector<Room> rooms = new Vector<>(Arrays.asList(new Room[] {
